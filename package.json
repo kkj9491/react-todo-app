@@ -11,6 +11,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "tailwindcss": "^3.3.7",
+    "postcss": "^8.4.32",
+    "autoprefixer": "^10.4.16"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
